@@ -1,7 +1,6 @@
 # hardluck
 everything or no things 
-##black1
-###black1.1
+##black
 ![google](www.google.com)
-[Algeria]
+[Algeria[google](www.google.com)]
 
